@@ -1,1 +1,1 @@
-# KoBERT-JobMatch
+# KoBERT-HireU
